@@ -1,0 +1,61 @@
+li,a{
+    color: #f8f43b;
+    padding: 16px;
+    display: block;
+    text-decoration: none;
+    font-family: "Copperplate Gothic Bold";
+    font-size: larger;
+}
+li{
+    float: left;
+}
+ul{
+    background-color: #030f2d;
+    overflow: hidden;
+}
+li,a:hover{
+    color: deeppink;
+}
+div{
+    color: cornflowerblue;
+    background-color: #7644cc;
+    border: 2px solid;
+    border-radius: 16px;
+    padding: 30px;
+}
+h2{
+    color: #13e9ef;
+    font-family: "Brush Script MT";
+}
+body{
+    background-color: #13e9ef;
+    background-image: url("Images/dj.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+title{
+    font-family: "Copperplate Gothic Bold";
+    color: blue;
+}
+p{
+    font-size: large;
+    font-family: "Berlin Sans FB Demi";
+    color: azure;
+}
+h1{
+    color: deeppink;
+    text-align: center;
+    font-family:"copperplate Gothic Bold";
+    font-size: large;
+}
+form{
+    font-family: "Droid Sans Mono Slashed";
+    color: azure;
+    font-size: x-large;
+    padding: 50px;
+}
+div{
+    border: ;
+
+}
